@@ -2,7 +2,7 @@
 
 ## Free RDP 6 HOURS
 
-it's all free, don't be stingy ⭐️ yes: D
+This Is Only for 2 Idiots Not For Others
 
 ### HOW TO CREATE netslutter-RDP
 ```
@@ -26,11 +26,11 @@ it's all free, don't be stingy ⭐️ yes: D
 ```
 ## If Error Showed
 
-Just Download This Whole repository And make new repo in your GitHub account and upload all the files
+Just Download This Whole repository And make new r
 ### WARN
 
 THIS IS ONLY FOR EDUCATIONAL PURPOSES
 
 DON'T USE FOR MINING OR ILLEGAL USE
 
-DON'T RECODE THIS SC!.
+
